@@ -5,3 +5,9 @@ Outline:
 1. Chroma Vector Database
 2. Pinecone Vector Database
 3. Weaviate Vector Database
+
+
+### Referece
+[1] https://docs.trychroma.com/docs
+[2] https://docs.pinecone.io/guides
+[3] https://weaviate.io/developers/weaviate
