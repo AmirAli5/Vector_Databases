@@ -8,6 +8,6 @@ Outline:
 
 
 ### Referece
-[1] https://docs.trychroma.com/docs
-[2] https://docs.pinecone.io/guides
+[1] https://docs.trychroma.com/docs <br>
+[2] https://docs.pinecone.io/guides   <br>
 [3] https://weaviate.io/developers/weaviate
